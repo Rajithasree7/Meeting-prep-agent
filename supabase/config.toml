@@ -1,0 +1,13 @@
+project_id = "vdybhzlvxzkgzjncahrm"
+
+[functions.extract-meeting]
+verify_jwt = true
+
+[functions.prepare-meeting]
+verify_jwt = true
+
+[functions.memory-feedback]
+verify_jwt = true
+
+[functions.health-check]
+verify_jwt = false
